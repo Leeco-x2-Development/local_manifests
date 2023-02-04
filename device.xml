@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="Leeco-x2-Developmen" fetch="https://github.com/Leeco-x2-Development" revision="lineage-18.1" />>
+  <project path="kernel/leeco/msm8996" name="android_kernel_leeco_msm8996" remote="Leeco-x2-Developmen" />
+  <project path="device/leeco/msm8996-common" name="android_device_leeco_msm8996-common" remote="Leeco-x2-Developmen" />
+  <project path="device/leeco/x2" name="android_device_leeco_x2" remote="Leeco-x2-Developmen" />
+</manifest>
